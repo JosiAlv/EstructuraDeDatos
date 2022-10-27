@@ -61,10 +61,8 @@
 ">Videos de evaluación procesual Hito 3**</A>
 
 *<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab1"> **Laboratorios  - Laboratorio 1**  </A>*
-
 *<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab2"> **Laboratorios - Laboratorio 2** </A>*
-<p> *<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab3"> **Laboratorios - Laboratorio 3** </A>*
-
+*<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab3"> **Laboratorios - Laboratorio 3** </A>*
 *<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab4"> **Laboratorios - Laboratorio 4**</A>*
 
 <p align="center">
