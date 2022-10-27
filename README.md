@@ -31,7 +31,6 @@
 
 *<A href="https://drive.google.com/file/d/1T0H0NV0d_BMNT4HY-S62PdkowpL3BULM/view?usp=sharing
 ">**Video de evaluacion procesual Hito 2**</A>*
-</p>
 
 *<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/HITO2/Lab1/Campeonato/Clases">**Laboratorio 1 en clases - laboratorio del Hito 2  **</A>*
 
