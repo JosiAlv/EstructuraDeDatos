@@ -1,4 +1,4 @@
-<h1 align="center"> 💻​ BASE DE DATOS II 💻</h1>
+<h1 align="center"> 💻​ ESTRUCTURA DE DATOS II 💻</h1>
 <h3 align="center">Foros || Trabajos || Proyectos || Laboratorios </h3>
 
 ## 💻 HITO 1 💻
