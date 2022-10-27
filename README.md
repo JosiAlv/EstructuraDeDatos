@@ -65,7 +65,7 @@
 *<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab2"> **Laboratorios - Laboratorio 2** </A>*
 <p> *<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab3"> **Laboratorios - Laboratorio 3** </A>*
 
-*<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab4"> **Laboratorios - Laboratorio 3**</A>*
+*<A href="https://github.com/JosiAlv/EstructuraDeDatos/tree/main/Hito3/Lab4"> **Laboratorios - Laboratorio 4**</A>*
 
 <p align="center">
     <img src="https://i.blogs.es/fd396a/hook/1366_2000.jpg" width="450">
